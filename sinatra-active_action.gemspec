@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name          = "sinatra-active_action"
-  spec.version       = '3.0.1'
+  spec.version       = '3.0.7'
   spec.authors       = ["Łukasz Śliwa"]
   spec.email         = ["lukasz.sliwa@apptamers.com"]
 
